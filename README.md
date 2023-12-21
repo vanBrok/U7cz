@@ -4,8 +4,9 @@ Testovací verze 0.3.12.21
 
 
 **Autoři:**
+
 technika:
-vanbrok@centrum.cz
+vanBrok
 
 testování:
-yugama144@gmail.com
+yugama144
