@@ -11,5 +11,7 @@ vanBrok
 testování:
 yugama144
 
-zkouska\pzkouska
-[AUTHORS.txt](https://github.com/vanBrok/U7cz/files/13784902/AUTHORS.txt)
+**Průběžné aktualizace:**
+
+Verze 0.3.12.21
+-nahozeny základní soubory Linkdep2,Usecode, text.flx, fonts.vga
