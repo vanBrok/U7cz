@@ -4,7 +4,7 @@ Testovací verze 0.3.12.28
 
 
 
-[u]**Autoři:**[/u]
+**Autoři:**
 
 technika:
 vanBrok
