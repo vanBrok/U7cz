@@ -12,3 +12,4 @@ testování:
 yugama144
 
 zkouska\pzkouska
+[AUTHORS.txt](https://github.com/vanBrok/U7cz/files/13784902/AUTHORS.txt)
