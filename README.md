@@ -17,7 +17,7 @@ yugama144
 **Průběžné aktualizace:**
 
 Verze 0.3.12.28
--nahozeny úpravy soubory Usecode (+Linkdep2),fonts.vga (přidány všechny fonty) + nový soubor mainshp.flx (obrázky hlavního menu, texty a fonty k titulkům a citacím)
+-nahozeny úpravy soubory Usecode (+Linkdep2), fonts.vga (přidány všechny fonty) + nový soubor mainshp.flx (obrázky hlavního menu, texty a fonty k titulkům a citacím)
 
 Verze 0.3.12.21
 -nahozeny základní soubory Usecode (+Linkdep2), text.flx (ještě nejsou přeložena všechna hesla), fonts.vga (funkční jsou pouze 2 fonty - herní titulky + knížky)
