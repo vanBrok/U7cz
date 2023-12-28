@@ -1,4 +1,4 @@
-Testovací verze 0.3.12.21
+Testovací verze 0.3.12.28
 
 **Upozornění!** Je zakázáno soubory šířit bez souhlasu autora, tedy mě. Pokud neodoláte pokušení a přesto si soubory stáhnete, můžete nám pomoct s testováním hry. Zdrojové soubory mám u sebe a proto je nutné hlásit chyby na moji adresu vanbrok@centrum.cz. Následně poté vydám novou verzi testovacích souborů.
 
@@ -11,7 +11,9 @@ vanBrok
 testování:
 yugama144
 
-**Průběžné aktualizace:**
 
+**Průběžné aktualizace:**
+Verze 0.3.12.28
+-nahozeny úpravy soubory Usecode (+Linkdep2),fonts.vga (přidány všechny fonty) + nový soubor mainshp.flx (obrázky hlavního menu, texty a fonty k titulkům a citacím)
 Verze 0.3.12.21
--nahozeny základní soubory Linkdep2,Usecode, text.flx, fonts.vga
+-nahozeny základní soubory Usecode (+Linkdep2), text.flx, fonts.vga (funkční jsou pouze 2 fonty - herní titulky + knížky)
